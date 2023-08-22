@@ -18,4 +18,4 @@ If you have a SHA-256 hash instead of the target password, you can uncomment the
 If you want to use your own custom dictionary, just uncomment the user input part of the code and provide your dictionary file path there.
 
 # Disclaimer
-This program is intended for educational purposes only. The author does not condone or encourage any illegal activities related to password cracking or unauthorized access to computer systems.
+This program is intended for educational purposes only. I does not condone or encourage any illegal activities related to password cracking or unauthorized access to computer systems.
