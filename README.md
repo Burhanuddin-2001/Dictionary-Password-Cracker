@@ -6,7 +6,7 @@ This program is a simple dictionary-based password cracker for educational purpo
 - hashlib module (included in Python standard library)
 - tqdm module (pip install tqdm)
 
-#Usage
+# Usage
 * Clone this repository or download the password_cracker.py file.
 * A common passwords word list (named password list.txt) is provided with the program. You can use this file as the dictionary for password cracking, or prepare your * own text file containing a list of words (one word per line).
 * Run the program using python password_cracker.py.
